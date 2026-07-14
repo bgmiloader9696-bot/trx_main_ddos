@@ -9,7 +9,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackQueryHandler
 
 # ======================== CONFIG ============================
-BOT_TOKEN = "8941070109:AAHXQK5GWQz7equsdD6HmO_i4HXODtgNoH8"
+BOT_TOKEN = "8941070109:AAFRnLK653bLBqa9hLtsrOyTnqg3dhPefh0"
 ADMIN_ID = 6548871396
 
 # API Configuration
